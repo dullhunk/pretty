@@ -1,2 +1,2 @@
 # pretty
-testing http://dullhunk.github.io
+testing github pages via http://dullhunk.github.io/pretty
